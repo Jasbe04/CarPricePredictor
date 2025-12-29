@@ -56,6 +56,3 @@ if model is not None and car is not None:
 else:
     st.warning("Required files not found. Please check your folder.")
 
-# cd "C:\Users\USER\OneDrive\Desktop\Code practice\Machine_Learning_Projects\Car Price Predictor Project"
-# flask --app app.py run
-# streamlit run app.py
